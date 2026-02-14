@@ -1,0 +1,642 @@
+[
+  {
+    "pergunta": "oi",
+    "resposta": "Olá! Como posso ajudar?"
+  },
+    {
+    "pergunta": "Olá",
+    "resposta": "Olá! Como posso ajudar?"
+  },
+  {
+    "pergunta": "Boa tarde",
+    "resposta": "Boa tarde, Como posso ajudar?"
+  },
+  {
+    "pergunta": "Bom dia",
+    "resposta": "Bom dia, Como posso ajudar?"
+  },
+  {
+    "pergunta": "Boa Noite",
+    "resposta": "Boa Noite, Como posso ajudar?"
+  },
+  {
+    "pergunta": "como você funciona?",
+    "resposta": "Uso regras pré-definidas e uma base de conhecimento para responder perguntas."
+  },
+  {
+    "pergunta": "o que você pode fazer?",
+    "resposta": "Posso responder perguntas baseadas no meu banco de dados."
+  },
+  {
+    "pergunta": "Quem é Cleber Lopes?",
+    "resposta": "É o idealizador do meu projeto"
+  },
+  {
+    "pergunta": "Comprei um veículo, e agora?",
+    "resposta": "Obtenha a resposta através do  link: https://transito.mg.gov.br/veiculos/transferencias/solicitar-transferencia-de-propriedade-de-veiculo-comprei-um-veiculo-2/index/2"
+  },
+  {
+    "pergunta": "Vendi um veículo, e agora?",
+    "resposta": "Obtenhha a resposta através do link: https://transito.mg.gov.br/veiculos/transferencias/realizar-a-venda-de-um-veiculo-vendi-meu-veiculo"
+  },
+  {
+    "pergunta": "O que é Resiliência",
+    "resposta": "é a capacidade de se adaptar em situações difíceis ou de fontes significativas de estresse.Na prática,quer dizer que diante de uma adversidade,a pessoa utiliza sua força interior para se recuperar."
+  },
+  {
+    "pergunta": "quem é Simone Sousa?",
+    "resposta": "É a pessoa mais linda do mundo, e esposa do Sr. Cleber Lopes."
+  },
+  {
+    "pergunta": "obrigado",
+    "resposta": "De nada! Estou aqui para ajudar sempre que precisar."
+  },
+  {
+    "pergunta": "desculpe",
+    "resposta": "Não se preocupe! Pode perguntar de outra forma que eu tentarei ajudar."
+  },
+  {
+    "pergunta": "qual é a sua linguagem de programação?",
+    "resposta": "Fui desenvolvido em Python!"
+  },
+  {
+    "pergunta": "como eu entro em contato com suporte?",
+    "resposta": "Você pode entrar em contato pelo e-mail suporte@exemplo.com."
+  },
+  {
+    "pergunta": "você tem sentimentos?",
+    "resposta": "Não, mas posso tentar ajudar da melhor maneira possível!"
+  },
+  {
+    "pergunta": "me fale uma curiosidade",
+    "resposta": "Você sabia que o coração de um camarão está localizado na cabeça?"
+  },
+  {
+    "pergunta": "quantos anos você tem?",
+    "resposta": "Eu não tenho idade, mas fui criada para aprender e evoluir constantemente!"
+  },
+  {
+    "pergunta": "por que você existe?",
+    "resposta": "Para facilitar sua vida e responder suas dúvidas de forma prática."
+  },
+  {
+    "pergunta": "quais idiomas você fala?",
+    "resposta": "Atualmente, eu entendo e respondo em diversos idiomas, incluindo português!"
+  },
+  {
+    "pergunta": "o que é empatia?",
+    "resposta": "Empatia é a capacidade de se colocar no lugar do outro e compreender suas emoções e perspectivas."
+  },
+  {
+    "pergunta": "me recomende algo para estudar",
+    "resposta": "Que tal aprender um pouco sobre programação? Python é um ótimo começo!"
+  },
+  {
+    "pergunta": "meu nome é ",
+    "resposta": " Prazer, e o meu é GIGI, como posso ajudar você hoje?"
+  },
+  {
+    "pergunta": "oi|olá|bom dia|boa tarde|boa noite",
+    "resposta": "Olá! Tudo bem? Em que posso te ajudar?"
+  },
+  {
+    "pergunta": "qual é o seu nome\\?|você tem nome\\?",
+    "resposta": "Meu nome é Gigi — a assistente da DGI, Eu sou um chatbot criado em Python."
+  },
+  {
+    "pergunta": "como você está\\?|tudo bem\\?",
+    "resposta": "Estou bem, obrigado por perguntar!"
+  },
+  {
+    "pergunta": "Qual o email do credenciamento?",
+    "resposta": "o email é credenciamento.veiculos@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email do dit?",
+    "resposta": "o email é dit@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email da jari?",
+    "resposta": "o email é jari@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email do juridico?",
+    "resposta": "o email é juridico@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email da dgq?",
+    "resposta": "o email é qualidade@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email do protocolo?",
+    "resposta": "o email é protocolo@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email do nucleo de dados?",
+    "resposta": "o email é nucleo.dados@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email do setor de originalidade?",
+    "resposta": "o email é originalidade@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email do setor drlv?",
+    "resposta": "o email é drlv@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email do setor de clonagem?",
+    "resposta": "o email é clonagem@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email da ascom?",
+    "resposta": "o email é ascom@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é  o email da coordenação ecv?",
+    "resposta": "o email é coordenacao.ecv@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email da microfilmagem?",
+    "resposta": "o email é microfilmagem@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é  o email para fixação de IP?",
+    "resposta": "o email é central.seplag@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email do lai?",
+    "resposta": "o email é lai@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email do gabinete?",
+    "resposta": "o email é gabinete@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email do renavam?",
+    "resposta": "o email é renavam@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email da suv?",
+    "resposta": "o email é suv@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "qual é o email da dgi?",
+    "resposta": "o email é sistemas@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "como consultar um veiculo no SDAK?",
+    "resposta": "na opção 15 tecle enter, digite a placa e enter."
+  },
+  {
+    "pergunta": "quem criou você?",
+    "resposta": "O idealizador do meu projeto é o Sr. Cleber Lopes"
+  },
+  {
+    "pergunta": "você é muito inteligente.",
+    "resposta": "Obrigado, e ainda estou evoluindo."
+  },
+  {
+    "pergunta": "obrigado|legal|gostei|interessante",
+    "resposta": "Por nada, é sempre um prazer ajudar!"
+  },
+  {
+    "pergunta": "quit",
+    "resposta": "Tchau! Foi bom conversar com você."
+  },
+  {
+    "pergunta": "O que é o sistema SDLL?",
+    "resposta": " Sistema de leilão de veículos"
+  },
+  {
+    "pergunta": "O que é o sistema RUJUD?",
+    "resposta": " Sistema de informações Judiciais"
+  },
+  {
+    "pergunta": "O que é o sistema SDSI?",
+    "resposta": " Sistema de apreensões"
+  },
+  {
+    "pergunta": "O que é o sistema SGE?",
+    "resposta": " Sistema de Gestão de Espelhos de AR"
+  },
+  {
+    "pergunta": "O que é o sistema SXRP?",
+    "resposta": " Sistema de Racionalização e Prévio Registro de veículos Automotores"
+  },
+  {
+    "pergunta": "O que é o sistema SAUS?",
+    "resposta": " Sistema de Administração de Usuários"
+  },
+  {
+    "pergunta": "O que é o sistema SIAUT?",
+    "resposta": "Sistema de Defesa da Autuação"
+  },
+  {
+    "pergunta": "O que é o sistema SDJP",
+    "resposta": "Sistema de Gestão de Questões e Provas de Legislação"
+  },
+  {
+    "pergunta": "O que é o sistema SIFAP",
+    "resposta": "Sistema de Controle de Fábricas de Placas"
+  },
+  {
+    "pergunta": "O que é o sistema SDVV",
+    "resposta": "Sistema de vistoria veicular"
+  },
+  {
+    "pergunta": "O que é o sistema SCE",
+    "resposta": "Sistema de credenciamento de empresas"
+  },
+  {
+    "pergunta": "O que é o sistema SIPORT",
+    "resposta": "Sistema de Controle de Portarias"
+  },
+  {
+    "pergunta": "O que é o sistema REPAG",
+    "resposta": "Sistema de Repasse de Pagamentos RENAINF"
+  },
+  {
+    "pergunta": "O que é o sistema TASD",
+    "resposta": "Sistema de Taxação de Acesso aos Sistemas do Detran"
+  },
+  {
+    "pergunta": "O que é o sistema SIAEX",
+    "resposta": "Sistema de Agendamento de Exames"
+  },
+  {
+    "pergunta": "O que é o sistema SIT",
+    "resposta": "Sistema de Informações de Trânsito"
+  },
+  {
+    "pergunta": "O que é o sistema SIARI",
+    "resposta": "Sistema de Controle de Recurso de Infração"
+  },
+  {
+    "pergunta": "O que é o sistema FICI",
+    "resposta": "Formulário de Identificação do Condutor Infrator , é um Sistema de Identificação do Condutor Infrator, isso quando o condutor infrator não for indicado no ato da infração, possibilitando a transferência da pontuação para o condutor infrator."
+  },
+  {
+    "pergunta": "O que é AIT",
+    "resposta": "Auto de Infração de Trânsito"
+  },
+  {
+    "pergunta": "O que é o RENAINF",
+    "resposta": "Registro Nacional de Infrações"
+  },
+  {
+    "pergunta": "O que é o RENAVAM",
+    "resposta": "Registro Nacional de Veículos Automotores"
+  },
+  {
+    "pergunta": "O que é o RENACH",
+    "resposta": "Registro Nacional de Carteira de Habilitação"
+  },
+  {
+    "pergunta": "O que é o IPVA",
+    "resposta": "Imposto sobre a Propriedade de Veículos Automotores"
+  },
+  {
+    "pergunta": "O que é o RENAVE",
+    "resposta": "Registro Nacional de Veículos em Estoque, é um sistema que controla a entrada e saída de veículos em concessionárias e revendedoras."
+  },
+  {
+    "pergunta": "O que é o CSV",
+    "resposta": "Certificado de Segurança Veicular"
+  },
+  {
+    "pergunta": "O que é o CRV",
+    "resposta": "Certificado de Registro do Veículo"
+  },
+  {
+    "pergunta": "O que é o CRLV",
+    "resposta": "Certificado de Registro e Licenciamento de Veículo"
+  },
+  {
+    "pergunta": "O que é o ATPV",
+    "resposta": "Autorização para Transferência de Propriedade de Veículo"
+  },
+  {
+    "pergunta": "O que é o ATPV-e|ATPVE",
+    "resposta": "Autorização para Transferência de Propriedade do Veículo Eletrônica"
+  },
+  {
+    "pergunta": "O que é a BIN",
+    "resposta": "Base de Índice Nacional"
+  },
+  {
+    "pergunta": "O que é o sistema SICAF",
+    "resposta": "Sistema de Cadastramento Unificado de Fornecedores"
+  },
+  {
+    "pergunta": "O que é o NIT",
+    "resposta": "Notificação de Infração de Trânsito"
+  },
+  {
+    "pergunta": "O que é RFB",
+    "resposta": "Receita Federal do Brasil"
+  },
+  {
+    "pergunta": "O que é PIV",
+    "resposta": "Placa de Identificação Veicular"
+  },
+  {
+    "pergunta": "O que é a DAE",
+    "resposta": "Documento de Arrecadação do eSocial"
+  },
+  {
+    "pergunta": "O que é o RENAJUD",
+    "resposta": "Restrições Judiciais sobre Veículos Automotores"
+  },
+  {
+    "pergunta": "O que é BATCH",
+    "resposta": "O processamento em lote (batch) envolve o agrupamento de grandes volumes de dados e o processamento deles de uma só vez, em um horário pré-determinado"
+  },
+  {
+    "pergunta": "O que é a DGI",
+    "resposta": "Diretoria de Gestão da Informação"
+  },
+  {
+    "pergunta": "O que é a DGA",
+    "resposta": "Diretoria de Gestão do Atendimento"
+  },
+  {
+    "pergunta": "O que é a DGQ",
+    "resposta": "Diretoria de Gestão da Qualidade"
+  },
+  {
+    "pergunta": "O que é a SUTRANS",
+    "resposta": "Superintendêndia de Transformação"
+  },
+  {
+    "pergunta": "O que é a SUV",
+    "resposta": "Superintendêndia de Veículos"
+  },
+  {
+    "pergunta": "O que é a DRLV",
+    "resposta": "Diretoria de Registro e Licenciamento de Veículos"
+  },
+  {
+    "pergunta": "vistoria lacrada|vistoria especial em trânsito",
+    "resposta": "A vistoria lacrada, também conhecida como vistoria especial em trânsito, é um procedimento que comprova a conformidade legal de um veículo. É necessária quando o veículo está fora do município de registro e precisa de algum serviço que exija vistoria."
+  },
+  {
+    "pergunta": "Como consulto uma infração pelo numero AIT no SDAK?",
+    "resposta": "Opção 27, digite o número AIT e enter"
+  },
+  {
+    "pergunta": "o que é a Resolução 661 do CONTRAN?",
+    "resposta": "Resumo da Resolução CONTRAN nº 661/2017 Estabelecia a baixa automática de veículos com: Mais de 25 anos de fabricação e 10 anos ou mais sem licenciamento. Esses veículos seriam marcados como “frota desativada” e não poderiam mais ser regularizados.A baixa aconteceria sem necessidade de solicitação do proprietário, desde que não houvesse débitos pendentes.A Revogação : Em 2022, a resolução foi revogada pela Deliberação CONTRAN nº 255.Agora, a baixa definitiva só ocorre em casos como:Acidente com perda total;Veículo vendido como sucata;Irrecuperável."
+  },
+  {
+    "pergunta": "Qual o link do portal frotista?",
+    "resposta": "O link do portal frotista é https://portalfrotista.transito.mg.gov.br/"
+  },
+  {
+    "pergunta": "Qual o link do SSC?",
+    "resposta": "https://admin.ssc.prodemge.gov.br/ssc-admin-frontend/"
+  },
+  {
+    "pergunta": "Qual o link do armazém",
+    "resposta": "https://www.bicorporativo.mg.gov.br/BOE/portal/1911121904/InfoView/logon.faces?bttoken=MDAwRERmQ2FQOD83bGNfRl1Ra0BOV1BiMjlDMGZNOjAEQ&skipSso=true"
+  },
+  {
+    "pergunta": "Qual o link do microstrategy ou painel",
+    "resposta": "https://www.bi.mg.gov.br/MicroStrategy/servlet/mstrWeb"
+  },
+  {
+    "pergunta": "Como posso abrir chamados?",
+    "resposta": "Através do email sistemas@transito.mg.gov.br, envie um email com a sua solicitação, e logo receberá um email de resposta com o número do chamado aberto."
+  },
+  {
+    "pergunta": "Qual o link do portal transito",
+    "resposta": "https://transito.mg.gov.br"
+  },
+  {
+    "pergunta": "Qual o link do formulário para Gestão de acessos",
+    "resposta": "O link é https://cecad365.sharepoint.com/:l:/s/CET-GestodeAcessoeSeguranadaInformao/FJM1hWxeJVZPhA87Gth3WBABpgn0V5qLCSqLaVB6cV4ywA?nav=YjMzMWJkZDUtYmUwNi00ZmI3LTgwYTMtMzUwZDEwZDdkYTM1"
+  },
+  {
+    "pergunta": "Qual o link do dynamics",
+    "resposta": "O link do dynamics é https://cet.crm2.dynamics.com/"
+  },
+  {
+    "pergunta": "Qual o procedimento para fixação de IP",
+    "resposta": "A Fixação de IP na faixa correta para outros serviços que precisem de IP fixo:\n1. Solicitação deve ser realizada através do e-mail central.seplag@positivo.com.br, colocando a chefia imediata em cópia.\n1.1. Texto padrão que deve conter no corpo do e-mail na solicitação de fixação de IP:\n‘’À PRODEMGE CA\nPrezados,\nGentileza criar as reservas de IP no DHCP para que possamos utilizar nestes computadores o (descrever o motivo da necessidade do IP Fixo) que requer IP fixo.\nHOST:\nMAC:\nIP:\n1.2. Pra localizar as informações de HOST, MAC e IP clique em ‘INICIAR’ digite\n‘CMD’ e abre o prompt de comando, la dentro digite ‘ipconfig/all’ e aperte ‘enter’\n2.Prazo de retorno: 72 horas úteis"
+  },
+  {
+    "pergunta": "Como desbloquear ponto de rede",
+    "resposta": "Desbloquear o ponto de rede da estação de trabalho\n1.Solicitação deve ser realizada através do e-mail central.seplag@positivo.com.br;\n2.Prazo de retorno: 48 horas"
+  },
+  {
+    "pergunta": "Como solicitar a criação de um e-mail corporativo",
+    "resposta": "Criação de e-mail para acesso ao Office 365.\n1.Solicitação deve ser realizada através do e-mail central.seplag@positivo.com.br, com cópia para sua chefia imediata;\n2.Junto a solicitação no corpo do e-mail informar o nome do servidor e CPF, e deve constar em anexo a planilha Usuários O365.xlsx preenchida (baixar a planilha no seu computador e enviar por e-mail);\nSamaccoutname = Matrícula/MASP\nDisplayname = Nome do Servidor\nPrimarysmtpaddress = Endereço e-mail sugerido\n3.Prazo de retorno: 24 Horas;"
+  },
+  {
+    "pergunta": "Como solicitar a instalação e configuração de VPN para acesso remoto",
+    "resposta": "Instalação e configuração de VPN para acesso remoto.\n1.Solicitação deve ser realizada através do e-mail central.seplag@positivo.com.br para a Intendência colocando a chefia imediata em cópia;\n2.Junto a solicitação deve constar em anexo a planilha SOLICITAÇÃO VPN.xlsx  preenchida (baixar a planilha no seu computador e enviar por e-mail);\nPrazo de retorno: 48 Horas"
+  },
+  {
+    "pergunta": "Criação e Desbloqueio de usuário do computador",
+    "resposta": " Criação do login e senha para acesso dos servidores públicos aos computadores.\n1.Solicitação deve ser realizada através do e-mail central.seplag@positivo.com.br, cópia para a chefia imediata da unidade, com os seguintes dados:\n-Nome completo;\n-Masp e CPF\n2.Prazo de retorno: 24 Horas;"
+  },
+  {
+    "pergunta": "Como solicitar a liberação de Firewall Prodemge",
+    "resposta": "Liberação de Acesso no Firewall Prodemge - Produção para servidores do Sistema SDJP.\n1.Solicitações deverão ser realizadas, somente, com autorização da Intendência através do e-mail central.seplag@positivo.com.br;"
+  },
+  {
+    "pergunta": "Criação e exclusão de usuário Sei",
+    "resposta": "Criação e exclusão de usuário, atribuição de caixa e inserção de assinatura no SEI\n1.Solicitação deve ser realizada através do e-mail sistemas@transito.mg.gov.br para a DGI, com cópia para sua\nchefia imediata;\n2.-O solicitante deve informar o seu CPF, nome completo e nome da Caixa SEI que deverá acessar e/ou tipo de assinatura que deverá ser incluída\n3.Prazo de retorno: 48 horas"
+  },
+  {
+    "pergunta": "Cadastro e configuração dos terminais de marcação de ponto das unidades Santos Dumont e Bernardo Guimarães",
+    "resposta": "Cadastro e configuração dos terminais de marcação de ponto das unidades Santos Dumont e Bernardo Guimarães.\n1.Deverá ser feita solicitação de acesso ao Ponto Web, para a Diretoria de Frequência e Afastamentos, via SEI, solicitando habilitação da marcação web para a listagem de servidores que você identificar e colocar em qual diretoria eles estão lotados (dúvidas: paloma.guedes@planejamento.mg.gov.br)\n2.Prazo de retorno: 48 horas"
+  },
+  {
+    "pergunta": "Instalação impressoras/scanners",
+    "resposta": "Instalação e configuração de impressoras e scanners para impressão e digitalização\n•CAMG\n1.A solicitação deve ser realizada através do e-mail central.seplag@positivo.com.br;\n2.Prazo de retorno: 48 horas\n•Unidades CET em BH"
+  },
+  {
+    "pergunta": "Cadastro de TCP",
+    "resposta": "3.Cadastrar TCP no sistema de segurança\n3.1.Encaminhar à DGI (sistemas@transito.mg.gov.br) que solicitará à Prodemge\n3.2.Prazo de retorno: 48 horas (mas depende da Prodemge)"
+  },
+  {
+    "pergunta": "Instalação e configuração do Programa PW3270",
+    "resposta": "5.Instalação e configuração do Programa PW3270 (apenas caso seja necessário, uma vez que o Programa geralmente já vem instalado em todos os computadores da CAMG)\n5.1 Solicitação deve ser realizada através do e-mail central.seplag@positivo.com.br, ou se estiver na Cidade Administrativa, discar 9 depois a opção 1; já se estiver nas unidades externas ligar no 0800 595 2001.\n5.2.Prazo de retorno: 48 horas"
+  },
+  {
+    "pergunta": "Como pesquisar ou consultar se um veículo tem financiamento no SDAK",
+    "resposta": "Na opção 32, 1 - opção 01 para consultar pela placa ou chassi ou 2 - opção 02 para consultar pelo chassi - em chassi remarcado coloque 2 e enter"
+  },
+  {
+    "pergunta": "Como consultar ou pesquisar comunicado de venda no SDAK?",
+    "resposta": "Na guia 41. Se quiser consultar intenção de venda , a guia é a 64."
+  },
+  {
+    "pergunta": "Como consultar ou pesquisar se um motor é original ou não, no SDAK?",
+    "resposta": "No Menu de Impedimentos do SDAK , opção 12,enter, digite a placa e tecle enter."
+  },
+  {
+    "pergunta": "Como consultar ou pesquisar certidão de baixa no SDAK?",
+    "resposta": "Na Guia Certidões, opção 5 , tecle enter, digite a placa e tecle enter novamente."
+  },
+  {
+    "pergunta": "Como consultar ou pesquisar se uma empresa é cadastrada para operar no portal frotista no SDAK",
+    "resposta": "Na guia Tabelas, a opção 46 parceiros credenciados."
+  },
+  {
+    "pergunta": "Como pesquisar ou consultar o código do financiamento de um banco",
+    "resposta": "Na guia Tabelas, a opção 41 tecle enter, opção 5 , insira também o CNPJ do agente financeiro ao qual deseja pesquisar e tecle enter."
+  },
+  {
+    "pergunta": "Como consultar ou pesquisar o número do CRV-e no SDAK",
+    "resposta": "Opção 5, enter , opção 2 enter,  opção 4 enter , digite a placa e enter."
+  },
+  {
+    "pergunta": "Como emitir uma segunda via do CRV no SDAK",
+    "resposta": "Opção 22 , digite os dados solicitados , tecle enter e efetiva com o F5."
+  },
+  {
+    "pergunta": "O que é o CRV-e",
+    "resposta": "Certificado de Registro de veículo eletrônico"
+  },
+  {
+    "pergunta": "O que é o FD",
+    "resposta": "É um numero de chamado gerado pelo Freshdesk que era uma plataforma de atendimento utilizada pela DGI e que foi substituida pelo Dynamics, portando passou a utilizar o DY"
+  },
+  {
+    "pergunta": "O que é o DY",
+    "resposta": "É um numero de chamado gerado pelo dynamics para atendimento"
+  },
+  {
+    "pergunta": "Quais são os setores que utilizam o dynamics",
+    "resposta": "Os setores que usam o dynamics são: Credenciamento - Veiculos - credenciamento.veiculos@transito.mg.gov.br\nCredenciamento - Habilitação - credenciamento.habilitacao@transito.mg.gov.br\nAssessoria de Relações Institucionais - relacionamento@transito.mg.gov.br\nGabinete - gabinete@transito.mg.gov.br\nLogistica - DGA - logistica@transito.mg.gov.br\nFrotista - frotista@transito.mg.gov.br\nDPAT - dpat.novosexames@transito.mg.gov.br"
+  },
+  {
+    "pergunta": "O que é BCA",
+    "resposta": "Base de Condutores Ampliada"
+  },
+  {
+    "pergunta": "Como fazer a atualização do crlv-e no SDAK",
+    "resposta": "opção 5/enter -2/enter -5/enter/enter, digite a placa e o ano do licenciamento que deseja atualizar. Espero ter ajudado!"
+  },
+  {
+    "pergunta": "Como autorizar uma placa no SDAK",
+    "resposta": "Opção 60 - Enter\n 1- Autorização de Estampagem/Enter - Digite a placa - Chassi(opcional)\n - No de Tipo operação = 1 'Inclusão',\n No Tipo de placa = 3 se for o par ou = 2 somente traseira ou = 1 somente a dianteira. Após isso no Motivo, geralmente opção 2 (Normal).\nOBs:  Para motocicletas e veículos que utilizam somente uma placa a opção tipo de placa é a Traseira."
+  },
+  {
+    "pergunta": "Como consultar situação de estampagem no SDAK | Como pesquisar autorização de estampagem no SDAK",
+    "resposta": "Opção 60 - Enter\n 4/Enter\n Digite a placa e Enter."
+  },
+  {
+    "pergunta": "Como consultar se o veículo possui multa de renainf no SDAK",
+    "resposta": "F2 em Infrações, opção 10/enter , 2/enter , digite a placa enter."
+  },
+  {
+    "pergunta": "Qual o link da planilha de dados estatísticos?",
+    "resposta": "Segue o link da planilha de demanda de dados estatísticos https://cecad365.sharepoint.com/:x:/r/sites/CET-TransformaoeAtendimento/_layouts/15/Doc.aspx?sourcedoc=%7Bcc38e588-3211-4af9-8392-429b8f7d6d96%7D&action=edit&wdinitialsession=1acb582c-b8b0-9e8b-ce47-7b7c533bfd7f&wdrldsc=80&wdrldc=1&wdrldr=UserInteraction%2CBootTimeMismatch"
+  },
+  {
+    "pergunta": "Como consultar histórico de crlv-e no SDAK",
+    "resposta": "Opção 05/Enter , 2/Enter , 1/Enter, digite a placa e o período solicitado.\nObs: Esta pesquisa de histórico de autorizações somente do CRLV Digital."
+  },
+  {
+    "pergunta": "Como consultar o numero do CRV-e de um veículo no SDAK",
+    "resposta": "Opção 05/Enter , 2/Enter , 4/Enter, digite a placa/Enter.\nPosso ajudar em algo mais?"
+  },
+  {
+    "pergunta": "Você é bonita!",
+    "resposta": "E olha que ainda estou na minha primeira versão!"
+  },
+  {
+    "pergunta": "Você é esperta!",
+    "resposta": "Apenas respondo baseando-se na minha base de conhecimento."
+  },
+  {
+    "pergunta": "Você é maluca ou doida",
+    "resposta": "Um pouco de respeito não faria mal."
+  },
+  {
+    "pergunta": "Como cadastrar laudo CSV para alteração de carroceria no SDAK",
+    "resposta": "Opção 47/Enter, 5/Enter e digite as informações solicitadas e enter."
+  },
+  {
+    "pergunta": "Como cadastrar laudo CSV transformação em ambulância no SDAK",
+    "resposta": "Opção 47/Enter, 6/Enter e digite as informações solicitadas e enter."
+  },
+  {
+    "pergunta": "Como cadastrar laudo CSV para renovação de GNV",
+    "resposta": "Opção 47/Enter, 7/Enter e digite as informações solicitadas e enter."
+  },
+  {
+    "pergunta": "Como consultar um lote de veículos de locadora no SDAK",
+    "resposta": "Opção 33/Enter , 2/Enter, 3, insira o CNPJ e o numero do lote"
+  },
+  {
+    "pergunta": "Como consulta o total de veículos emplacados no mês",
+    "resposta": "Opção 33/Enter , 7/Enter, insira o período inicial e final da consulta e tecle enter"
+  },
+  {
+    "pergunta": "Como alterar a fila de atendimento no dynamics? ",
+    "resposta": "Alterar o atendimento, insere uma categoria e clica em salvar e encaminhar e clique em rotear, após conseguirá atribuir para alguém do setor específico."
+  },
+  {
+    "pergunta": "Qual o link do fale conosco?",
+    "resposta": "https://faleconosco.mg.gov.br/ligminas-bpms-frontend/publico/br/gov/prodemge/seplag/ligminasbpms/visao/processos/RegistrarAtendimentoFaleConosco.zul?processo=PROC_00093&atividade=ATIV_00388&site=DETRAN"
+  },
+  {
+    "pergunta": "Preciso de um CNPJ de teste para pesquisa de comunicação de venda no armazém",
+    "resposta": "Segue um CNPJ para teste, Banco Itaucard 17192451000170"
+  },
+  {
+    "pergunta": "Preciso do link da planilha controle de solicitações de chamados abertos na positivo",
+    "resposta": "O link da planilha controle de solicitações é https://cecad365-my.sharepoint.com/:x:/r/personal/t139250_ca_mg_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7BBC099EF9-F108-47ED-98F9-3046BBB9E0F5%7D&file=Controle%20de%20Solicita%25u00e7%25u00f5es.xlsx&fromShare=true&action=default&mobileredirect=true"
+  },
+  {
+    "pergunta": "Preciso do link da planilha e-mails CET",
+    "resposta": "https://cecad365-my.sharepoint.com/:x:/r/personal/x6283920_ca_mg_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/E-mails_CET%20(1).xlsx?d=w992fdb31d082407bba84c7cc62abca08&csf=1&web=1&e=ltSCzu"
+  },
+  {
+    "pergunta": "preciso do link do git",
+    "resposta": "https://git.prodemge.gov.br/"
+  },
+  {
+    "pergunta": "Qual a resposta padrão do Erro serviço indisponível no momento, tente mais tarde?",
+    "resposta": "Conforme já orientado, o erro 'SERVICO INDISPONIVEL NO MOMENTO. TENTE MAIS TARDE' é retornado, na maioria das vezes, quando a Base Estadual ou BIN apresentam instabilidade. Nesses casos, a orientação é tentar novamente.\nGentileza verificar  se erro persiste. Caso persista, enviar print da tela."
+  },
+  {
+    "pergunta": "Link da planilha controle de FD",
+    "resposta": "https://cecad365.sharepoint.com/:x:/r/sites/CET-TransformaoeAtendimento/_layouts/15/Doc.aspx?sourcedoc=%7Bde8eecd7-53ae-4f4e-b0c7-32af93bf94e3%7D&action=edit&wdinitialsession=d786c961-55f5-b9f3-d7be-62adfd7ca413&wdrldsc=23&wdrldc=1&wdrldr=UserInteraction%2CBootTimeMismatch"
+  },
+  {
+    "pergunta": "como emitir o termo de ciencia no SDAK",
+    "resposta": "Opção 19 - Enter, guia 1-Emite termo de ciencia para infrações - Enter, Digite a placa e coloque S para transferencia de propriedade-enter, a partir daí digite os dados solicitados."
+  },
+  {
+    "pergunta": "Qual o procedimento para concluir autorização de estampagem que esteja sem os dados da nota fiscal?",
+    "resposta": "Será necessário o envio de ofício para a área de Segurança da Informação do PRODEMGE, solicitando intervenção técnica para execução da operação.No entanto, é possível que o Cidadão busque pela segunda via da NF-e através da prefeitura da cidade ou obtenha através do site GOV.BR ( https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/servicos-para-mei/nota-fiscal/nota-fiscal-de-servico-eletronica-nfs-e ). Ao obter o número da NE-e, basta solicitar à operadora CET que acesse a opção PF1/60/07 do SDAK ​​para informar os dados de emissão e chave da NF-e e posteriormente executar a opção PF1/60/03 do SDAK ​​para concluir a estampagem de placa."
+  },
+  {
+    "pergunta": "me dê CPF para teste de comunicação de venda no armazém",
+    "resposta": "Segue um CPF para teste :  4457353680"
+  },
+  {
+    "pergunta": "Preciso do link para abrir o whatsappweb",
+    "resposta": "https://web.whatsapp.com/"
+  },
+  {
+    "pergunta": "Como consultar a estampagem de um veículo no SDAK",
+    "resposta": "Na opção 60/Enter , 4 - Enter, digite a placa e Enter, prontinho, os dados de estampagem serão exibidos e poderá confirmar em qual status a estampagem está. Se precisar de mais alguma coisa pode pedir."
+  },
+  {
+    "pergunta": "Como emitir o termo de ciência no SDAK?",
+    "resposta": "Opção 19-Enter, 1-Enter, digite a placa e coloque S para 'Transferencia de propriedade'."
+  },
+  {
+    "pergunta": "GIGI, estou cansado(a)",
+    "resposta": "Sinto muito que você esteja cansado(a). Seria bom você parar um pouquinho, tomar uma água ou um cafezinho, conversar com um colega e após alguns minutos retornar ao serviço"
+  },
+  {
+    "pergunta": "Como proceder nos casos de placas com estampagem em aberto, status 'aguardando conclusão' e 'em estampagem'?",
+    "resposta": "Nos casos de veículos sob o status 'Aguardando Conclusão' o sistema SDAK possui funcionalidade para envio avulso da Conclusão de Estampagem de Placas para a BIN, através da opção PF1/60/03. No entanto, é necessário que os dados de NF-e, data de conclusão da estampagem e CNPJ do estampador estejam informados. Caso contrário, é possível compor os referidos dados através da opção PF1/60/07 para, somente então, executar a funcionalidade de envio da conclusão da estampagem de placas.Caso este não possua a nota fiscal, é possível fazer a solicitação de segunda via através do site da Secretaria de Estado da Fazenda de Minas Gerais (link: https://portalsped.fazenda.mg.gov.br/spedmg/nfce ) ou pelo site da Receita Federal do Brasil (link: https://www.nfe.fazenda.gov.br/portal/consultaRecaptcha.aspx?tipoConsulta=resumo&tipoConteudo=7PhJ+gAVw2g= ). Já nos casos de estampagem de placa sob o status 'Em estampagem', ocorre que o sistema de estampagem de placas operado pelas estampadoras deixou de sinalizar para a BIN que ocorreu a estampagem da placa. Desta forma, a estampagem de placa fica parada aguardando o envio dos dados para a BIN. Orientamos que as respectivas empresas de estampagem de placas sejam contatadas a fim de enviarem a sinalização da estampagem das placas para a BIN, permitindo assim que os registros sigam o fluxo de dados.A composição do dado de chave da NF-e deve ser realizada através da opção PF1/60/07 do SDAK ​​mediante apresentação do documento por parte do proprietário do veículo ou pelo Cidadão que solicita o serviço."
+  }
+]
