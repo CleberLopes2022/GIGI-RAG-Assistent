@@ -38,17 +38,8 @@ def gerar_embeddings():
     modelo = carregar_modelo()
     base = carregar_base()
 
-    embeddings = []
-
-    for item in base:
-        pergunta = item["pergunta"]
-        emb = modelo.encode(pergunta, convert_to_tensor=True)
-
-        embeddings.append({
-            "pergunta": pergunta,
-            "resposta": item["resposta"],
-            "embedding": emb
-        })
+    perguntas = [item["pergunta"] for item in base]
+    embeddings = modelo.encode(perguntas, convert_to_tensor=True)
 
     return embeddings
 
@@ -60,32 +51,48 @@ def gerar_embeddings():
 class Retriever:
 
     def __init__(self):
-        self.modelo = carregar_modelo()
-        self.base = carregar_base()
-        self.embeddings = gerar_embeddings()
+        # 🔥 NÃO carrega nada pesado aqui
+        self.modelo = None
+        self.base = None
+        self.embeddings = None
+
+    def carregar(self):
+        if self.modelo is None:
+            self.modelo = carregar_modelo()
+
+        if self.base is None:
+            self.base = carregar_base()
+
+        if self.embeddings is None:
+            self.embeddings = gerar_embeddings()
 
     def buscar_contexto(self, pergunta):
+
+        # 🔥 Só carrega quando necessário
+        self.carregar()
 
         pergunta_norm = normalizar_texto(pergunta)
         pergunta_emb = self.modelo.encode(pergunta_norm, convert_to_tensor=True)
 
-        similaridades = []
+        similaridades = util.pytorch_cos_sim(
+            pergunta_emb,
+            self.embeddings
+        )[0]
 
-        for item in self.embeddings:
-            sim = util.pytorch_cos_sim(pergunta_emb, item["embedding"]).item()
-            similaridades.append((sim, item))
-
-        similaridades.sort(key=lambda x: x[0], reverse=True)
+        top_resultados = similaridades.topk(TOP_K)
 
         logging.info(f"Pergunta: {pergunta}")
-        logging.info(f"Similaridades: {[round(s,3) for s,_ in similaridades[:5]]}")
-
+        logging.info(f"Similaridades: {[round(s.item(),3) for s in top_resultados.values]}")
 
         contextos = []
 
-        for sim, item in similaridades[:TOP_K]:
+        for idx, sim in zip(top_resultados.indices, top_resultados.values):
+
+            sim = sim.item()
+
             if sim > SIMILARITY_THRESHOLD or not contextos:
-                resposta = item["resposta"]
+
+                resposta = self.base[idx]["resposta"]
 
                 if isinstance(resposta, list):
                     resposta = random.choice(resposta)
@@ -93,5 +100,6 @@ class Retriever:
                 contextos.append(f"- {resposta}")
 
         return "\n".join(contextos) if contextos else None
+
 
 
