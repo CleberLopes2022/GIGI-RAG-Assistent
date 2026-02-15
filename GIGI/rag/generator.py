@@ -10,38 +10,41 @@ class Generator:
         )
 
     def gerar(self, pergunta, contexto, historico):
+        try:
+            messages = [
+                    {
+                        "role": "system",
+                        "content": """
+                    Você é um assistente que responde apenas com base no contexto fornecido.
+                    Se a resposta não estiver no contexto, diga:
+                    "Não encontrei essa informação na base de dados."
+                    Não invente informações.
+                    """
+                    }
 
-        messages = [
-                {
-                    "role": "system",
-                    "content": """
-                Você é um assistente que responde apenas com base no contexto fornecido.
-                Se a resposta não estiver no contexto, diga:
-                "Não encontrei essa informação na base de dados."
-                Não invente informações.
-                """
-                }
+            ]
 
-        ]
+            for remetente, msg in historico[-6:]:
+                role = "assistant" if remetente == "GIGI" else "user"
+                messages.append({"role": role, "content": msg})
 
-        for remetente, msg in historico[-6:]:
-            role = "assistant" if remetente == "GIGI" else "user"
-            messages.append({"role": role, "content": msg})
+            prompt = f"""
+            CONTEXTO:
+            {contexto}
 
-        prompt = f"""
-        CONTEXTO:
-        {contexto}
+            PERGUNTA ATUAL:
+            {pergunta}
+            """
 
-        PERGUNTA ATUAL:
-        {pergunta}
-        """
+            messages.append({"role": "user", "content": prompt})
 
-        messages.append({"role": "user", "content": prompt})
+            response = self.client.chat.completions.create(
+                model=LLM_MODEL,
+                messages=messages,
+                temperature=0.2
+            )
 
-        response = self.client.chat.completions.create(
-            model=LLM_MODEL,
-            messages=messages,
-            temperature=0.2
-        )
+            return response.choices[0].message.content
+        except Exception as e:
+            return f"Erro ao gerar resposta: {str(e)}"
 
-        return response.choices[0].message.content
