@@ -1,3 +1,4 @@
+pip==26.0.1
 streamlit
 sentence-transformers
 torch
@@ -5,4 +6,5 @@ requests
 python-dotenv
 OpenAI
 rag
+
 
